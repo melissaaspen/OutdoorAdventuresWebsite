@@ -1,0 +1,33 @@
+body{
+  margin: 0px;
+  background-color: #2d5551;
+}
+
+.img-ice{
+  width: 100%;
+  display: block;
+  height: 300px;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.img-climbing{
+  width: 100%;
+  display: block;
+  height: 250px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.img-skiing{
+  width: 100%;
+  display: block;
+  height: 300px;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.headers{
+  padding-top: 40px;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
